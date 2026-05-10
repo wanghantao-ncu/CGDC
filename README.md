@@ -1,5 +1,6 @@
 # Center-Edge-Based Gaussianized Distribution Calibration for Few-Shot Images Classification
-PyTorch implementation of the paper Center-Edge-Based Gaussianized Distribution Calibration for Few-Shot Images Classification.
+In this repo, we provide the implementation of the following paper:<br>
+"Center-Edge-Based Gaussianized Distribution Calibration for Few-Shot Images Classification"   [[Paper]](https://www.mdpi.com/2079-9292/14/22/4472).
 
 # Requirement
 This repo was tested with Ubuntu 18.04.5 LTS, Python 3.10, Pytorch 2.0.0, and CUDA 11.8. You will need at least 64GB RAM and 24GB VRAM(i.e. Nvidia RTX-3090) for running full experiments in this repo.
